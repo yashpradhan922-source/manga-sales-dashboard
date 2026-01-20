@@ -30,4 +30,4 @@ Deploy the Apps Script as a Web App (via the Deploy menu).
 
 Share the generated URL for public or protected access.
 
-📌 Example link: https://script.google.com/macros/s/…/dev
+📌 Example link: https://script.google.com/macros/s/AKfycbxR9NXNeV2y_ersb5Vs-z5y33TNC87OQ86zYczKV_23/dev
